@@ -1,0 +1,5 @@
+﻿  main.cpp
+E:\Github\Repos\Almond-Bread\Almond Bread\Almond Bread\main.cpp(123,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Github\Repos\Almond-Bread\Almond Bread\Almond Bread\main.cpp(138,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Github\Repos\Almond-Bread\Almond Bread\Almond Bread\main.cpp(139,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Almond Bread.vcxproj -> E:\Github\Repos\Almond-Bread\Almond Bread\x64\Debug\Almond Bread.exe
